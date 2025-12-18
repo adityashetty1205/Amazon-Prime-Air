@@ -114,4 +114,4 @@ Isenberg School of Management | University of Massachusetts Amherst
 
 ## 🏷️ Tags
 
-`Microsoft Excel` `Python` `Loccation Analytics` `Geospatial Analytics` `Statistical Modeling`
+`Microsoft Excel` `Python` `Supply Chain Analytics` `Loccation Analytics` `Geospatial Analytics` `Statistical Modeling`
