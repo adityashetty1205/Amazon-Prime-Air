@@ -104,7 +104,7 @@ Drone-based delivery isn't just a vision—it’s an active solution for real-wo
 ## 👤 Author
 
 **Aditya Pramod Shetty**  
-Master's in Business Analytics 
+Master's in Business Analytics |
 Isenberg School of Management | University of Massachusetts Amherst
 
 📧 Email: adityashetty1205@gmail.com  
