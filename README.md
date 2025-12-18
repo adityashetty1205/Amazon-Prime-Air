@@ -91,7 +91,7 @@ Each site was evaluated based on population, delivery density, flight range, and
 ## 📄 Files Included
 
 * **📘 Final Report**: [663-AmazonReport-Team10.docx](./663-AmazonReport-Team10.docx)
-* **📕 PDF Summary**: [Drone Hub Location Strategy for Prime Air.pdf](./Drone%20Hub%20Location%20Strategy%20for%20Prime%20Air.pdf)
+* **📕 PDF Summary**: AmazonPrimeAir_Deck.pdf
 
 ---
 
